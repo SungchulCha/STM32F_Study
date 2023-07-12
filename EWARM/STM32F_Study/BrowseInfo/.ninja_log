@@ -1,0 +1,12 @@
+# ninja log v5
+649	1524	7108355190000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_i2c_ex.xcl	1d465c8fcdd6dbb7
+1	2307	7108355200000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Application/User/Core/stm32f7xx_hal_msp.xcl	fb4cb797ad46660b
+183	3309	7108355210000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma_ex.xcl	3e4d86a0336f2d45
+84	4123	7108355220000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Application/User/Core/main.xcl	5c34374f52532199
+280	4773	7108355230000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_cortex.xcl	23984f6288b1ddf
+427	5563	7108355230000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Application/User/Core/stm32f7xx_it.xcl	1934c6d2cbc2712
+361	6256	7108355240000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/CMSIS/system_stm32f7xx.xcl	b7d094a8c4d4dfd
+487	6835	7108355250000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal.xcl	3419333975e5f8da
+571	7566	7108355250000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_dma.xcl	eb386572fb4adc11
+755	8303	7108355260000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_exti.xcl	3c2c21f5476053e6
+1525	8939	7108355270000000	C:/Users/Tony/Desktop/STM32F_Study/EWARM/STM32F_Study/BrowseInfo/Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal_flash_ex.xcl	a8be1e9024cac90a
